@@ -1,0 +1,19 @@
+footer.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(214, 214, 219);
+    border-radius: 20px;
+    margin-left: -215px;
+    margin-right: 12px;
+    font-family: 'Lato', sans-serif;
+    
+}
+
+footer #link {
+    margin-left: 550px;
+}
+
+footer #git {
+    margin-right: 420px;
+}
